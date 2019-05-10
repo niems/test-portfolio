@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-portfolio/static/css/main.524a171b.chunk.css",
+    "main.js": "/test-portfolio/static/js/main.b8511276.chunk.js",
+    "main.js.map": "/test-portfolio/static/js/main.b8511276.chunk.js.map",
+    "runtime~main.js": "/test-portfolio/static/js/runtime~main.0a2c41e0.js",
+    "runtime~main.js.map": "/test-portfolio/static/js/runtime~main.0a2c41e0.js.map",
+    "static/js/2.13329da9.chunk.js": "/test-portfolio/static/js/2.13329da9.chunk.js",
+    "static/js/2.13329da9.chunk.js.map": "/test-portfolio/static/js/2.13329da9.chunk.js.map",
+    "index.html": "/test-portfolio/index.html",
+    "precache-manifest.2588921520d4f3c15d34de427671fc29.js": "/test-portfolio/precache-manifest.2588921520d4f3c15d34de427671fc29.js",
+    "service-worker.js": "/test-portfolio/service-worker.js",
+    "static/css/main.524a171b.chunk.css.map": "/test-portfolio/static/css/main.524a171b.chunk.css.map",
+    "static/media/main.css": "/test-portfolio/static/media/whisper-sign-in.3d53e9ee.png"
+  }
+}
